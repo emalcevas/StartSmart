@@ -7,7 +7,7 @@
 - weather forecast integration (gismeteo) (dpiv)
 - google calendar integration
 - misc/general info reporting (battery level, ...)
-- text-to-speech (to report selected data)
+- text-to-speech (to report selected data) (edg)
 
 Standard alarm:
 Good morning `name`, its `datetime` in `location`, your phone is `battery percent` charged.
