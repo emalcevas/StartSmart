@@ -1,3 +1,20 @@
+# Base roadmap
+
+## Features
+
+- basic alarm
+- custom/user defined sounds
+- weather forecast integration (gismeteo) (dpiv)
+- google calendar integration
+- misc/general info reporting (battery level, ...)
+- text-to-speech (to report selected data)
+
+Standard alarm:
+Good morning `name`, its `datetime` in `location`, your phone is `battery percent` charged.
+Today `expected weather conditions`, it feels like `weather right now`.
+Don't forget to `google calendar stuff`.
+Have a fucking wonderful day!
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
