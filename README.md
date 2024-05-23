@@ -6,7 +6,7 @@
 - custom/user defined sounds
 - weather forecast integration (gismeteo) (dpiv)
 - google calendar integration
-- misc/general info reporting (battery level, ...)
+- misc/general info reporting (battery level, ...) (just)
 - text-to-speech (to report selected data) (edg)
 
 Standard alarm:
